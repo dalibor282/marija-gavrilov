@@ -1,0 +1,24 @@
+h2{
+    background-color: #b81eb8 ;
+    color:white;
+    text-align:center;
+}
+h1{
+    background-color:yellow;
+    color:black;
+    text-align:center;
+}
+body{
+    background-color:blue;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #prvi{
+    font-size:44px;
+    text-align:center;
+    color:white;
+    background-color:red;
+  }

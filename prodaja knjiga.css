@@ -1,0 +1,22 @@
+h2{
+    text-align:center;
+    color:white;
+    background-color:#b81eb8 ;
+}
+h1{
+    text-align:center;
+    color:black;
+    background-color:rgb(52, 219, 52);
+}
+img{
+    float:left;
+    margin:15px;
+}
+body{
+    background-color:blue;
+}
+.center1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }

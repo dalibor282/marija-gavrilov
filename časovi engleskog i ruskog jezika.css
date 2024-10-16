@@ -1,0 +1,34 @@
+h2{
+    text-align:center;
+    background-color:#b81eb8 ;
+    color:white;
+}
+h1{
+    text-align:center;
+    background-color:blue;
+    color:white;
+}
+h3{
+    text-align:center;
+    background-color: red;
+    color: white;
+}
+img{
+    float:right;
+    margin:7px;
+}
+body{
+    background-color: yellow;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #prvi{
+      font-family:serif;
+      text-align:center;
+      font-size: 34px;
+      color:white;
+      background-color:red;
+  }
